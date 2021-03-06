@@ -1,4 +1,5 @@
 # About __
+## Javascript 
 
 ### 정적언어
 > 자료형을 선언할 때 지정해 주는 언어    
@@ -15,9 +16,11 @@ bool num3 = 1; // 컴파일 에러
 num1 = 10 # number
 name = "Evan Hwang" #String
 ```           
-## Js
+
 ### 배열
 > javascript 배열에서는 하나의 배열에 여러가지 섞여 들어갈 수 있음     
 ``` js
 var a = ["Hello", 17, "hi", "bye"];
-```
+```   
+
+
